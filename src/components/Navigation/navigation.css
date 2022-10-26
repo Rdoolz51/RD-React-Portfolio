@@ -1,0 +1,9 @@
+.navLink--navigation {
+    color: white;
+    
+}
+.navLink--navigation:hover {
+    background-color: white;
+    font-weight: bold;
+    color:black;
+}

@@ -1,0 +1,9 @@
+.backgroundImg {
+  background-image:url('./assets/images/tech-bg.jpeg');
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center 100%;
+  background-size: cover;
+  
+}
