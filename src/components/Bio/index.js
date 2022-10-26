@@ -5,7 +5,6 @@ import './bio.css';
 const Bio = () => {
     return (
         <div>
-
         </div>
     );
 };
