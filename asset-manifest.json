@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/RD-React-Portfolio/static/css/main.a18fd383.css",
-    "main.js": "/RD-React-Portfolio/static/js/main.17bcf49a.js",
+    "main.css": "/RD-React-Portfolio/static/css/main.1c321bf4.css",
+    "main.js": "/RD-React-Portfolio/static/js/main.eb7e239c.js",
     "static/js/787.1ed0c42c.chunk.js": "/RD-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/dndLandingPage.png": "/RD-React-Portfolio/static/media/dndLandingPage.e3f682677b179a715364.png",
     "static/media/boardgametrackerss.jpg": "/RD-React-Portfolio/static/media/boardgametrackerss.f9628d7901c1ff373390.jpg",
     "static/media/choreboardss.jpg": "/RD-React-Portfolio/static/media/choreboardss.8c134bfa8b36f21f542e.jpg",
     "static/media/tech-bg.jpeg": "/RD-React-Portfolio/static/media/tech-bg.ef7845a458bfb92ac2d8.jpeg",
     "index.html": "/RD-React-Portfolio/index.html",
-    "main.a18fd383.css.map": "/RD-React-Portfolio/static/css/main.a18fd383.css.map",
-    "main.17bcf49a.js.map": "/RD-React-Portfolio/static/js/main.17bcf49a.js.map",
+    "main.1c321bf4.css.map": "/RD-React-Portfolio/static/css/main.1c321bf4.css.map",
+    "main.eb7e239c.js.map": "/RD-React-Portfolio/static/js/main.eb7e239c.js.map",
     "787.1ed0c42c.chunk.js.map": "/RD-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a18fd383.css",
-    "static/js/main.17bcf49a.js"
+    "static/css/main.1c321bf4.css",
+    "static/js/main.eb7e239c.js"
   ]
 }
