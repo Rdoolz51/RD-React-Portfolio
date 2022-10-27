@@ -13,7 +13,7 @@ function App () {
         <>
           <Routes>
             <Route
-              path="/"
+              path="/RD-React-Portfolio/"
               element={<Home />}>
             </Route>
             <Route
@@ -26,7 +26,7 @@ function App () {
             </Route>
             <Route
               path="*"
-              element={<Navigate to="/" />}>
+              element={<Navigate to="/RD-React-Portfolio/" />}>
             </Route>
           </Routes>
         </>
