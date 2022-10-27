@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RD-React-Portfolio/static/css/main.1c321bf4.css",
-    "main.js": "/RD-React-Portfolio/static/js/main.eb7e239c.js",
+    "main.js": "/RD-React-Portfolio/static/js/main.2e9fb4a6.js",
     "static/js/787.1ed0c42c.chunk.js": "/RD-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/dndLandingPage.png": "/RD-React-Portfolio/static/media/dndLandingPage.e3f682677b179a715364.png",
     "static/media/boardgametrackerss.jpg": "/RD-React-Portfolio/static/media/boardgametrackerss.f9628d7901c1ff373390.jpg",
@@ -9,11 +9,11 @@
     "static/media/tech-bg.jpeg": "/RD-React-Portfolio/static/media/tech-bg.ef7845a458bfb92ac2d8.jpeg",
     "index.html": "/RD-React-Portfolio/index.html",
     "main.1c321bf4.css.map": "/RD-React-Portfolio/static/css/main.1c321bf4.css.map",
-    "main.eb7e239c.js.map": "/RD-React-Portfolio/static/js/main.eb7e239c.js.map",
+    "main.2e9fb4a6.js.map": "/RD-React-Portfolio/static/js/main.2e9fb4a6.js.map",
     "787.1ed0c42c.chunk.js.map": "/RD-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c321bf4.css",
-    "static/js/main.eb7e239c.js"
+    "static/js/main.2e9fb4a6.js"
   ]
 }
