@@ -6,7 +6,7 @@ import './navigation.css';
 const Navigation = () => {
     return (
         <div className="container-fluid p-0">
-            <Nav ActiveKey='/' className="fs-2 bg-dark w-100 d-flex justify-content-center">
+            <Nav ActiveKey='/' className="fs-2 bg-dark bg-opacity-50 w-100 d-flex justify-content-center">
                 <Nav.Item>
                     <Nav.Link href='/' className="navLink--navigation">Home</Nav.Link>
                 </Nav.Item>
