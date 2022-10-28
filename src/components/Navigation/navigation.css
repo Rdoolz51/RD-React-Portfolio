@@ -1,9 +1,12 @@
 .navLink--navigation {
     color: white;
+    padding: 1rem;
+    text-decoration: none;
     
 }
 .navLink--navigation:hover {
-    background-color: rgba(255, 255, 255, 0.53);
+    background-color: rgba(255, 255, 255, 1);
     font-weight: bold;
     color:black;
+    padding: 5px;
 }

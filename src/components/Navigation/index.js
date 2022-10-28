@@ -2,19 +2,20 @@ import React from "react";
 import { Nav } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import './navigation.css';
+import { Link } from "react-router-dom";
 
 const Navigation = () => {
     return (
         <div className="container-fluid p-0">
-            <Nav ActiveKey='/RD-React-Portfolio/' className="fs-2 bg-dark  w-100 d-flex justify-content-center">
+            <Nav className="fs-2 bg-dark  w-100 d-flex justify-content-center">
                 <Nav.Item>
-                    <Nav.Link href='/RD-React-Portfolio/' className="navLink--navigation">Home</Nav.Link>
+                    <Link to='/' className="navLink--navigation">Home</Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link href='/RD-React-Portfolio/projects' className="navLink--navigation">Projects</Nav.Link>
+                    <Link to='/projects' className="navLink--navigation">Projects</Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link href='/RD-React-Portfolio/skills' className="navLink--navigation">Skills</Nav.Link>
+                    <Link to='/skills' className="navLink--navigation">Skills</Link>
                 </Nav.Item>
             </Nav>
         </div>
