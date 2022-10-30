@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RD-React-Portfolio/static/css/main.1c321bf4.css",
+    "main.css": "/RD-React-Portfolio/static/css/main.1d9cab13.css",
     "main.js": "/RD-React-Portfolio/static/js/main.cfd675e2.js",
     "static/js/787.1ed0c42c.chunk.js": "/RD-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/dndLandingPage.png": "/RD-React-Portfolio/static/media/dndLandingPage.e3f682677b179a715364.png",
@@ -8,12 +8,12 @@
     "static/media/choreboardss.jpg": "/RD-React-Portfolio/static/media/choreboardss.8c134bfa8b36f21f542e.jpg",
     "static/media/tech-bg.jpeg": "/RD-React-Portfolio/static/media/tech-bg.ef7845a458bfb92ac2d8.jpeg",
     "index.html": "/RD-React-Portfolio/index.html",
-    "main.1c321bf4.css.map": "/RD-React-Portfolio/static/css/main.1c321bf4.css.map",
+    "main.1d9cab13.css.map": "/RD-React-Portfolio/static/css/main.1d9cab13.css.map",
     "main.cfd675e2.js.map": "/RD-React-Portfolio/static/js/main.cfd675e2.js.map",
     "787.1ed0c42c.chunk.js.map": "/RD-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c321bf4.css",
+    "static/css/main.1d9cab13.css",
     "static/js/main.cfd675e2.js"
   ]
 }
