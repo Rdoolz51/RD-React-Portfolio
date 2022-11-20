@@ -19,6 +19,9 @@ const Projects = () => {
                 <Project img={choreboardss} title="Chore-Board" description="Chore Board is a website that allows parents to post a list of chores. The children listed on the account can complete chores to earn points to spend on custom rewards!" link="https://chore-board.herokuapp.com/" />
                 <Project img={placeholderimg} title="Placeholder Name" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." />
             </div>
+            <div>
+                <h3 className="text-white d-flex justify-content-center">*Projects on Heroku may take a moment to load*</h3>
+            </div>
             <Footer />
         </>
     );

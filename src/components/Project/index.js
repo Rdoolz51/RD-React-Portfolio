@@ -20,7 +20,7 @@ const Project = (props) => {
                 <Card.Text className="">
                     {props.description}
                 </Card.Text>
-                <Button variant="primary" href={props.link} className="mt-4">See it Live!</Button>
+                <Button variant="primary" target="_blank" href={props.link} className="mt-4">See it Live!</Button>
             </Card.Body>
         </Card>
     );
